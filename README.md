@@ -1,1 +1,2 @@
-# Vadanam-Skincare---SDev
+Vadanam Skincare was created to be an online portal of ecommerce for handling a friend's small business skincare brand in 2021.
+The page from then has become obsolete due to the brand's closing but the wesite is available for it full implementation. And here goes the source-code for it. It was built using JS, Bootstrap, HTML & CSS for the front-end and SQL for its backend. THe connectivity is made through PHP. 
